@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Unlicensed",
   "dependencies": {
     "koa": "^2.5.1",
     "koa-parser": "^1.0.5",
